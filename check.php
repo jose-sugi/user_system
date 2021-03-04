@@ -1,6 +1,6 @@
     <?php 
     	include(dirname(__FILE__) . '/php_function.php');//PHP関数ファイルの読み込み
-        include(dirname(__FILE__) . '/js_function.php');//JS関数ファイルの読み込み
+        include(dirname(__FILE__) . '/js_function.php');//JS関数ファイルの読み込みです
 
         $name = $_POST["name"];
         $mail = $_POST["mail"];
